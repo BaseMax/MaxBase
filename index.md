@@ -1,17 +1,22 @@
 ---
 layout: default
-title: Next Community - Software Engineers agency
+title: Max Base - Software Engineer and Open source maintainer
 ---
 
-# Next Community
+# Max Base
 
 <!-- ([Also available in Persian](https://maxbase.ir/){:target="_blank"}) -->
 
 In the name of god; Greetings!
 
+
+I, Ali, and my nickname is Max. I am a software engineer and/or programmer.
+
 <p class="callout">
 	Linus Torvalds: “Talk is cheap. Show me the code.”
 </p>
+
+**Look at my GitHub profile: [https://github.com/BaseMax](https://github.com/BaseMax){:target="\_blank"}**
 
 ## Community
 
@@ -20,5 +25,3 @@ You can see a list of all [Community members](/network/){:target="\_blank"}, als
 ## Contact me
 
 You can send an email for me to maxbasecode (at) gmail.com. I read everything sent there, but I receive too much email to respond to everything.
-
-<!-- JOHN PLEASE ADD YOUR EMAIL ADDRESS HERE -->
